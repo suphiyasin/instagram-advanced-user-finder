@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "hasokeyk/instagram": "^1.0"
+    }
+}

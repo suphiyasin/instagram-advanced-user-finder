@@ -1,0 +1,22 @@
+{
+    "name": "hasokeyk/instagram",
+    "authors": [
+        {
+            "name": "Hasan Yüksektepe",
+            "email": "hasanhasokeyk@hotmail.com",
+            "homepage": "https://hayatikodla.net",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "keywords": ["instagram","instagram user","instagram static"],
+    "homepage": "https://hayatikodla.net",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle":"^7.0.1"
+    },
+    "autoload": {
+        "files": ["src/instagram.php"]
+    }
+}
