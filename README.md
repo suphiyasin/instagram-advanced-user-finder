@@ -1,4 +1,4 @@
-﻿[![name](https://img.shields.io/badge/PHP%207+-2196f3?style=for-the-badge&logo=php&logoColor=white)](https://suphi.org/rich-oto/)
+[![name](https://img.shields.io/badge/PHP%207+-2196f3?style=for-the-badge&logo=php&logoColor=white)](https://suphi.org/rich-oto/)
 [![name](https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/richotosohbet/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suphiyasin/instagram-advanced-user-finder&count_bg=%23C83D3D&title_bg=%23057386&icon=&icon_color=%23BA0808&title=View&edge_flat=false)](https://github.com/suphiyasin/instagram-advanced-user-finder)
 # Instagam Auto Collector, Scanner and Sender
@@ -9,7 +9,7 @@ phone number => wali api key for wahtsapp<br/>
 
 # Installation
 <b>Installation is completed in 3 steps
-<li>Step 1 download as zip and extract to localhost and create a database named richoto and put richauto.sql in it </li>
+<li>Step 1 download as zip and extract to localhost and create a database named 'richoto' and put 'richoto.sql' in it</li>
 <li>Step 2 Open your browser's network monitoring and then copy the cookie value from the header section from the incoming data of your browsing on Instagram as it is 
 
  ```
