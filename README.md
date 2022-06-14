@@ -19,6 +19,11 @@ phone number => wali api key for wahtsapp<br/>
 <li>Step 3 if it is not saturday or sunday then contact me and get api key for free</li>
   </b><br/>
   
+# How to use 
+<b>Your panel is /userpanel/ backend is only where the api files are</b>
+So Login Name : userpanel
+Login password : Enter the api key that I gave you for free on Saturday and Sunday. If we are not on saturday or sunday please contact me on telegram.
+  
 # How to use Collector For User
 <b>
 First, find 1 user with the features you are looking for manually. then the username<br/>
