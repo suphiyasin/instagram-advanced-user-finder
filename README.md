@@ -9,7 +9,7 @@ phone number => wali api key for wahtsapp<br/>
 
 # Installation
 <b>Installation is completed in 3 steps
-<li>Step 1 download as zip and extract to localhost</li>
+<li>Step 1 download as zip and extract to localhost and create a database named 'richoto' and put 'richoto.sql' in it</li>
 <li>Step 2 Open your browser's network monitoring and then copy the cookie value from the header section from the incoming data of your browsing on Instagram as it is 
 
  ```
