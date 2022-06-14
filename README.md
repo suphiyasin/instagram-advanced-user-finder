@@ -20,9 +20,9 @@ phone number => wali api key for wahtsapp<br/>
   </b><br/>
   
 # How to use 
-<b>Your panel is /userpanel/ backend is only where the api files are</b>
-So Login Name : userpanel
-Login password : Enter the api key that I gave you for free on Saturday and Sunday. If we are not on saturday or sunday please contact me on telegram.
+<b>Your panel is /userpanel/ backend is only where the api files are<br/></b>
+So Login Name : userpanel<br/>
+Login password : Enter the api key that I gave you for free on Saturday and Sunday. If we are not on saturday or sunday please contact me on telegram.<br/>
   
 # How to use Collector For User
 <b>
