@@ -28,8 +28,7 @@ if(true){
 $koc = mysqli_fetch_object($cok);
 //$coki = $koc->Cookie;
 
-	$coki = 'ig_did=A40CCDDC-1970-418D-B347-E2A7FD32965D; ig_nrcb=1; mid=YqhQCwAEAAETH6Bdsj4ZoHHSwFN6; csrftoken=u1Nf7YJHOUR7yPmYxhJd1sGyA9FcD3hc; ds_user_id=6184140674; sessionid=6184140674:xN4V53dPjRNc71:22; shbid="19721\0546184140674\0541686733740:01f74a923fc9e4fb0a3cd5191e55f86ecd3fa38cd54c7fd9d9aa6d7fb1d86140cda5cebb"; shbts="1655197740\0546184140674\0541686733740:01f73f0ab99a4d8a2c126192700551d00e3bdc2021babe266e48b700c095bfe756a1397c"; datr=L1CoYoAdaxR-nEIkwcTL7Ean; rur="ODN\0546184140674\0541686733758:01f75f2b68510f229bca639c5f1042d0462be25615f1c7540b81759998c6ff85293b27c4"';	
-	
+	$coki = '';
 	
 	//	echo $coki;
 	//$cokimm = strval($coki);
