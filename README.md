@@ -16,7 +16,7 @@ phone number => wali api key for wahtsapp<br/>
  $coki = 'ENTER COOKIE HERE';  
 ```
 31.Line </li>
-<li>Step 3 if it is not saturday or sunday then contact me and get api key for free</li>
+ <li>Step 3 <a href="#weekly-key-area">if it is not saturday or sunday</a> then contact me and get api key for free</li>
   </b><br/>
   
 # How To Use 
