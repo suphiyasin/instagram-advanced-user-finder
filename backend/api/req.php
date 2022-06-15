@@ -33,7 +33,7 @@ $koc = mysqli_fetch_object($cok);
 	//	echo $coki;
 	//$cokimm = strval($coki);
 //	echo $cokimm;
-	$_SESSION['user'] = "userpanel";
+	$_SESSION['username'] = "userpanel";
 $use = new instagramx();
 $use->musteri = "userpanel";
 $use->cookie = $coki;
