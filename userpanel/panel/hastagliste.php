@@ -199,7 +199,7 @@ foreach($ulist as $hababam){
   }
 						var veri = document.getElementById("floatingTextarea").value;
 						var ayar = "hashtaglistesi";
-						setInterval(function () {$.post('../api/req.php', {ayar:ayar, veri:veri}, function(response){ 
+						setInterval(function () {$.post('../../backend/api/req.php', {ayar:ayar, veri:veri}, function(response){ 
 	 $("#adas").html(response)
 	 
 });	}, 4000);
