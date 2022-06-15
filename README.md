@@ -92,7 +92,7 @@ Register on the site and connect your whatsapp account, copy the incoming api an
 it should be like this<br/></li>
  
 # Weekly Key Area
- <b>Will be renewed on Friday evening and Saturday morning<br/>
+ <b>Will be renewed on Friday evening or Saturday morning<br/>
   Key => <br/>
  </b>
   
