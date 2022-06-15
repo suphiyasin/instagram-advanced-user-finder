@@ -76,6 +76,12 @@ Register on the site and connect your whatsapp account, copy the incoming api an
 <li>Even though "oto messenger bas" is disabled now, there is a high probability that it will send you the id's that you sent a message to and received from m.me/username.
   With the facebook cookie, you need to enter your facebook id.</li>
  
+# Screenshots
+ ![image](https://user-images.githubusercontent.com/65618247/173745092-02f5186d-bf5a-427c-b78b-f73eb88eb9c9.png)
+![image](https://user-images.githubusercontent.com/65618247/173745165-805ea1b4-9bab-4f09-bae5-14a5eecc4716.png)
+![image](https://user-images.githubusercontent.com/65618247/173745202-bbe547dd-1df3-4807-abe8-1f42991e8c79.png)
+
+ 
 # Do You Need Help ? 
   <center>
     <b> <h5> Come Telegram Group </h5></b><br/>
