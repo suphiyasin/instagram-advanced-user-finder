@@ -83,6 +83,13 @@ Register on the site and connect your whatsapp account, copy the incoming api an
 ![image](https://user-images.githubusercontent.com/65618247/173745202-bbe547dd-1df3-4807-abe8-1f42991e8c79.png)
 
  
+# FAQ 
+ <b>what does wrong api mean ?</b><br/>
+ Open the file that says this and the url posted with jquery should be like this<br/>
+../../backend/api/req.php<br/>
+it should be like this<br/>
+ 
+ 
 # Do You Need Help ? 
   <center>
     <b> <h5> Come Telegram Group </h5></b><br/>
