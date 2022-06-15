@@ -19,12 +19,12 @@ phone number => wali api key for wahtsapp<br/>
 <li>Step 3 if it is not saturday or sunday then contact me and get api key for free</li>
   </b><br/>
   
-# How to use 
+# How To Use 
 <b>Your panel is /userpanel/ backend is only where the api files are<br/></b>
 So Login Name : userpanel<br/>
 Login password : Enter the api key that I gave you for free on Saturday and Sunday. If we are not on saturday or sunday please contact me on telegram.<br/>
   
-# How to use Collector For User
+# How To Use Collector For User
 <b>
 First, find 1 user with the features you are looking for manually. then the username<br/>
 Write to the page named "find recommended" without using @.<br/>
@@ -34,7 +34,7 @@ Then go to the "auto find recommended" page and click "Start" without doing anyt
   <br/>
 </b>
 
-# How to use Collector For Hashtag
+# How To Use Collector For Hashtag
 <b>
   First of all, if you have your own hashtag list<br/>
 List it in hashtaglist.txt if you don't have it and you have no idea<br/>
@@ -48,7 +48,7 @@ if you want to collect users who have just shared from 1 hashtag<br/>
 Go to "collect from hashtag" page and type the hashtag name without using #<br/>
  </b>
  
-# How to use Scanner
+# How To Use Scanner
 <b><li>"Mail scan bio" page takes the bio from the user ids you collected and tries to detect mail in it .And there is a blue tick / no check account setting in it
 No need to copy incoming data
   </li>
@@ -61,7 +61,7 @@ No need to copy incoming data
     Check out github.com/suphiyasin/ for messenger id finder shared there</li>
  </b>
  
- # How to use Sender
+ # How To Use Sender
  <b>
   <li>We used the "auto mail sender" phpmailer library.
 sends the draft you wrote on the page where you set your mail setting to everyone.
