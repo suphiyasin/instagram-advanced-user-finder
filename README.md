@@ -84,7 +84,7 @@ Register on the site and connect your whatsapp account, copy the incoming api an
 
  
 # FAQ 
- <b>what does wrong api mean ?</b><br/>
+ <h3>what does wrong api mean ?</h3><br/>
  Open the file that says this and the url posted with jquery should be like this<br/>
 ../../backend/api/req.php<br/>
 it should be like this<br/>
