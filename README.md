@@ -91,6 +91,11 @@ Register on the site and connect your whatsapp account, copy the incoming api an
 ../../backend/api/req.php<br/>
 it should be like this<br/></li>
  
+# Weekly Key Area
+ <b>Will be renewed on Friday evening and Saturday morning<br/>
+  Key => <br/>
+ </b>
+  
  
 # Do You Need Help ? 
   <center>
