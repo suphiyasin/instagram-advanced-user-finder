@@ -76,7 +76,7 @@ Instagram cookie alma işlemi için bu videoyu izleyebilirsiniz.
 3. You can choose from the "Mail type" section for the mail type to be found.
 4. After making your selections, press the "Start" button and wait.
 
-### Do not sent me a message
+### Send Message
 
 #### a. Sending Mail
 
