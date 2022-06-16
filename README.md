@@ -21,7 +21,7 @@
     <a href="https://github.com/suphiyasin/instagram-advanced-user-finder/blob/main/README-TR.md" style="font-size:24px">Türkçe</a>
 </p>
 
-# Buy License
+# Get Key
 
 To obtain a monthly license, please contact <a href="https://t.me/suphi007">@suphi007</a>.
 <br>
@@ -103,6 +103,9 @@ Sending process
 3. In the "ENTER NO LIST" section, enter the phone numbers of the people to whom the message will be sent, with a space between them.
 4. Enter the message to be sent in the "DRAFT" section.
 5. After performing all the operations, press the "Start" button and wait.
+
+# Weekly Key Area
+the key will appear here on weekends, if not on weekends you can get it from telegram
 
 # Screenshots
 
