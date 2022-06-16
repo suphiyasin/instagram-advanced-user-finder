@@ -22,7 +22,7 @@
 </p>
 
 # Get Key
-
+every week, you can get free weekly key from telegram. We share it from Weekly key area on weekends
 To obtain a monthly license, please contact <a href="https://t.me/suphi007">@suphi007</a>.
 <br>
 
