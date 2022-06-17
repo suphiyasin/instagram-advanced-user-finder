@@ -105,7 +105,9 @@ Sending process
 5. After performing all the operations, press the "Start" button and wait.
 
 # Weekly Key Area
-the key will appear here on weekends, if not on weekends you can get it from telegram
+Username => userpanel
+KEY => thefirstkeyHelloWorld
+Last day 20.06.2022
 
 # Screenshots
 
