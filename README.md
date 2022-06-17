@@ -111,9 +111,11 @@ KEY => thefirstkeyHelloWorld
 Last day 20.06.2022
 ``` 
 # Screenshots
-
+Collecting
 ![image](https://user-images.githubusercontent.com/65618247/173745092-02f5186d-bf5a-427c-b78b-f73eb88eb9c9.png)
+Mail Scan
 ![image](https://user-images.githubusercontent.com/65618247/173745165-805ea1b4-9bab-4f09-bae5-14a5eecc4716.png)
+Collected Mail List
 ![image](https://user-images.githubusercontent.com/65618247/173745202-bbe547dd-1df3-4807-abe8-1f42991e8c79.png)
 
 
