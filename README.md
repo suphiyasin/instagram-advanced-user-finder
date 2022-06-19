@@ -106,9 +106,7 @@ Sending process
 
 # Weekly Key Area
 ```
-Username => userpanel
-KEY => thefirstkeyHelloWorld
-Last day 20.06.2022
+wait 25.06.2022
 ``` 
 # Screenshots
 ### Collecting
