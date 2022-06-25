@@ -106,7 +106,8 @@ Sending process
 
 # Weekly Key Area
 ```
-wait 25.06.2022 or contact me on telegram (key free.)
+Username => userpanel
+Password => EmegeSaygi
 ``` 
 # Screenshots
 ### Collecting
