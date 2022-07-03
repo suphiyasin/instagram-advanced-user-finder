@@ -107,7 +107,7 @@ Sending process
 # Weekly Key Area
 ```
 Username => userpanel
-Wait for password 1 day 
+password => SaygiGoster
 ``` 
 # Screenshots
 ### Collecting
