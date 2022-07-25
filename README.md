@@ -107,7 +107,7 @@ Sending process
 # Weekly Key Area
 ```
 Username => userpanel
-Password => Dirilis
+Password => wait 30.07.2022
 ``` 
 # Screenshots
 ### Collecting
