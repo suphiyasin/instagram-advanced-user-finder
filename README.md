@@ -21,8 +21,7 @@
     <a href="https://github.com/suphiyasin/instagram-advanced-user-finder/blob/main/README-TR.md" style="font-size:24px">Türkçe</a>
 </p>
 
-# Announcement
-PLANNED MAINTENANCE WORK ! IT IS NORMAL TO HAVE PROBLEMS WHEN LOGGING IN<BR/>
+
 
 # Get Key
 every week, you can get free weekly key from telegram. We share it from <a href="#weekly-key-area">Weekly key area on weekends</a><br/>
@@ -110,7 +109,7 @@ Sending process
 # Weekly Key Area
 ```
 Username => userpanel
-Password => contact with telegram
+Password => Damla
 ``` 
 # Screenshots
 ### Collecting
