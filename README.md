@@ -21,6 +21,9 @@
     <a href="https://github.com/suphiyasin/instagram-advanced-user-finder/blob/main/README-TR.md" style="font-size:24px">Türkçe</a>
 </p>
 
+# Announcement
+PLANNED MAINTENANCE WORK ! IT IS NORMAL TO HAVE PROBLEMS WHEN LOGGING IN<BR/>
+
 # Get Key
 every week, you can get free weekly key from telegram. We share it from <a href="#weekly-key-area">Weekly key area on weekends</a><br/>
 To obtain a monthly license, please contact <a href="https://t.me/suphi007">@suphi007</a>.
