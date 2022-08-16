@@ -110,7 +110,7 @@ Sending process
 # Weekly Key Area
 ```
 Username => userpanel
-Password => Dirilis
+Password => contact with telegram
 ``` 
 # Screenshots
 ### Collecting
