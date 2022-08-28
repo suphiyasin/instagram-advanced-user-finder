@@ -109,7 +109,7 @@ Sending process
 # Weekly Key Area
 ```
 Username => userpanel
-Password => Damla
+Password => <a href="https://t.me/suphi007"> Contact me => Telegram </a>
 ``` 
 # Screenshots
 ### Collecting
