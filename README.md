@@ -106,7 +106,7 @@ Sending process
 4. Enter the message to be sent in the "DRAFT" section.
 5. After performing all the operations, press the "Start" button and wait.
 
-# Weekly Key Area
+# Weekly Key Area (Suspend)
 ```
 Username => userpanel
 Password =>  Contact me  Telegram @suphi007
