@@ -11,7 +11,7 @@
 <img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="80" height="80" />
 </a>
 
-<h3 align="center">Instagram Advanced User Finder V1.0.0 (V2 COMING SOON)</h3>
+<h3 align="center">Instagram Advanced User Finder V1.0.0 (<a href="https://github.com/suphiyasin/Instagram-Automation-Tools/">For V2</a>)</h3>
 
 <p align="center">
     With this PHP script, you can find users on Instagram and message them.
